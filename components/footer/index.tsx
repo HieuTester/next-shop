@@ -20,24 +20,25 @@ const Footer = () => {
 
           <div className="site-footer__links">
             <ul>
-              <li>Shopping online</li>
-              <li><a href="#">Order Status</a></li>
-              <li><a href="#">Shipping and Delivery</a></li>
-              <li><a href="#">Returns</a></li>
-              <li><a href="#">Payment options</a></li>
-              <li><a href="#">Contact Us</a></li>
+              <li>Mua hàng online</li>
+              <li><a href="#">Tra cứu đơn hàng</a></li>
+              <li><a href="#">Chính sách vận chuyển</a></li>
+              <li><a href="#">Chính sách đổi trả hàng</a></li>
+              <li><a href="#">Hình thức thanh toán</a></li>
             </ul>
             <ul>
-              <li>Information</li>
-              <li><a href="#">Gift Cards</a></li>
-              <li><a href="#">Find a store</a></li>
+              <li>Thông tin</li>
+              <li><a href="#">Về chúng tôi</a></li>
+              {/* <li><a href="#">Find a store</a></li>
               <li><a href="#">Newsletter</a></li>
-              <li><a href="#">Bacome a member</a></li>
-              <li><a href="#">Site feedback</a></li>
+              <li><a href="#">Bacome a member</a></li> */}
+              <li><a href="#">Tin tức</a></li>
+              <li><a href="#">Phản hồi</a></li>
             </ul>
             <ul>
-              <li>Contact</li>
-              <li><a href="#">store@uikit.com</a></li>
+              <li>Liên hệ</li>
+              <li><a href="#">Địa chỉ: Trung Văn, Nam Từ Liêm</a></li>
+              <li><a href="#">Email: vincstore@uist.com</a></li>
               <li><a href="#">Hotline: +1 131 138 138</a></li>
             </ul>
           </div>
